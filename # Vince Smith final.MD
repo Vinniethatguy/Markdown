@@ -99,7 +99,7 @@ hobby.md
 
 # Hobby
 
-Sites**I**visit these sites as hobby-
+*Sites I visit these sites as hobby-
 * [Discord](Https://www.discord.com)
 * [Reddit](https://www.reddit.com)
 * [ESPN](https://www.espn.com)
